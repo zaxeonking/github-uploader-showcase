@@ -3,7 +3,7 @@
 Web app buat connect akun GitHub, terus kelola & upload file langsung ke repo dari browser — tanpa perlu buka terminal atau Git command sama sekali. Cocok buat push perubahan cepat, upload dari HP, sampe deploy ke Vercel dalam beberapa klik.
 
 🔗 **Live demo:** https://uploader-git.vercel.app/
-📱 **Install aplikasi (APK):** _link download bakal ditaro di sini_
+📱 **Install aplikasi (APK):** _https://github.com/zaxeonking/github-uploader-showcase/releases/download/v1.0.0/Uploader-git.apk_
 
 ## Apa yang bisa dilakuin
 
